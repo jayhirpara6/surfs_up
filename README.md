@@ -15,6 +15,8 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
  
 ![](../main/Images/Dec_Summary.png) 
 
+-- December is a slightly colder month than June, on average 3 degrees lower in temperature.
+
 # Summary 
 
-From our data we can tell what our temperatures are but since there are other attributes to the weather such as precipitation it shows that we can run additional queries to let us know whether or not people can come and visit the shop. If we are able to gain more data for the area we can run even more queries! From there we can decide how we would like to build the shop and what areas would make this a more prominent location for visitors to come.
+Given that the data we had provided more extensive weather data, we would need to run more queries to see the viablility of having a surf shop open in June/Dec. Other data includes, precipitation, etc.
